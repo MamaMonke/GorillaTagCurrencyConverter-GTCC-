@@ -1,4 +1,4 @@
-# GorillaTagCurrencyConverter-GTCC-
+# GorillaTagCurrencyConverter-GTCC
 Converts Gorilla tag currency into usd or gs.
 
 # You can add your currency if you want.
